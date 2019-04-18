@@ -1,0 +1,9 @@
+C:\Users\Acer-PC\source\repos\HWP1\HWP1\bin\Debug\DatabaseGroup.mdf
+C:\Users\Acer-PC\source\repos\HWP1\HWP1\bin\Debug\DatabaseGroup_log.ldf
+C:\Users\Acer-PC\source\repos\HWP1\HWP1\bin\Debug\HWP1.exe.config
+C:\Users\Acer-PC\source\repos\HWP1\HWP1\bin\Debug\HWP1.exe
+C:\Users\Acer-PC\source\repos\HWP1\HWP1\bin\Debug\HWP1.pdb
+C:\Users\Acer-PC\source\repos\HWP1\HWP1\obj\Debug\HWP1.csprojAssemblyReference.cache
+C:\Users\Acer-PC\source\repos\HWP1\HWP1\obj\Debug\HWP1.csproj.CoreCompileInputs.cache
+C:\Users\Acer-PC\source\repos\HWP1\HWP1\obj\Debug\HWP1.exe
+C:\Users\Acer-PC\source\repos\HWP1\HWP1\obj\Debug\HWP1.pdb
